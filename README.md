@@ -1,4 +1,4 @@
-Here’s a concise and simple README file for your FastAPI application:
+
 
 \---
 
